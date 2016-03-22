@@ -1,0 +1,5 @@
+package: proof
+import:
+- package: github.com/albrow/jobs
+- package: github.com/dchest/uniuri
+- package: github.com/Sirupsen/logrus

@@ -1,0 +1,15 @@
+hash: 5ef782585a7c82c18616c5906de9121aba7fbc3e3ad1cd212d119b5e3e303d41
+updated: 2016-03-22T13:41:16.47059429+05:00
+imports:
+- name: github.com/albrow/jobs
+  version: 1db60b6a2fefa276b8966a8ee811d9d68e213f0e
+- name: github.com/dchest/uniuri
+  version: 8902c56451e9b58ff940bbe5fec35d5f9c04584a
+- name: github.com/garyburd/redigo
+  version: 4ed1111375cbeb698249ffe48dd463e9b0a63a7a
+  subpackages:
+  - redis
+  - internal
+- name: github.com/Sirupsen/logrus
+  version: 4b6ea7319e214d98c938f12692336f7ca9348d6b
+devImports: []
